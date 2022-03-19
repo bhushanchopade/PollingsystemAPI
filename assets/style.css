@@ -1,0 +1,36 @@
+* {
+    margin: 0;   
+}
+
+div {
+    margin: 10px 0;
+}
+
+.question {
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.question-first {
+    margin-top: 5rem;
+}
+
+#vote-ctrl {
+    margin: 0px;
+    display: inline-block; 
+}
+.options li {
+    width: 75%;
+    display: inline-block;
+}
+
+#create-option {
+    display: flex;
+    width: 87%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#create-option .form-control {
+    width: 75%;
+}
