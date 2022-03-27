@@ -23,3 +23,10 @@ it)
 - - /options/:id/delete (To delete an option)
 - - /options/:id/add_vote (To increment the count of votes)
 - - /questions/:id (To view a question and it’s options)
+
+
+## Get Started
+- clone the project
+- open terminal and write this command one by one
+- npm install
+- npm start
